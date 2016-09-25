@@ -1,0 +1,19 @@
+{
+    "name": "mahadirz/cakephp-tinker",
+    "description": "CakePHP Plugin that gives to psysh REPL",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "console", "REPL"],
+    "homepage": "https://github.com/mahadirz/CakephpTinker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahadir Ahmad",
+            "homepage": "http://madet.my"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "composer/installers": "*",
+        "psy/psysh": "@stable"
+    } 
+}
